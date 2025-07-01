@@ -558,6 +558,9 @@ section{
     justify-content: space-between;
     padding: 70px 150px;
 }
+.footer .footer-section .footer-col h3{
+    color: white;
+}
 .footer .footer-section .footer-col p{
     color: white;
     width: 220px;
