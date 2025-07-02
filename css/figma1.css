@@ -1044,7 +1044,7 @@ section{
         overflow-x: hidden;
         /* Hide horizontal scrollbar */
         width:90%;
-        max-width:60px;
+        max-width:600px;
         margin:0 auto;
     }
     .home-header .nav-bar{
