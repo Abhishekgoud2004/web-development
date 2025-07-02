@@ -1039,7 +1039,7 @@ section{
 }
 /* =========================== Responsive =======================*/
 /*form mobile view*/
-@media (max-width:600px) {
+@media (max-width:768px) {
     body {
         overflow-x: hidden; /* Hide horizontal scrollbar */
     }
