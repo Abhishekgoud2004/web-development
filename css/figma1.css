@@ -1042,7 +1042,7 @@ section{
 @media (max-width:600px) {
     body{
         overflow-x: hidden;
-         overflow-y: hidden;/* Hide horizontal scrollbar */
+        /* Hide horizontal scrollbar */
     }
     .home-header .nav-bar{
         margin: 0px;
@@ -1278,12 +1278,12 @@ section{
         height: 170px;
     }
     .showcase-section{
-       width: 768px;
+       width: 600px;
        height: 100%;
        margin: 0px;
        text-align: center;
     }.showcase-section .showcases{
-        width: 768px;
+        width: 600px;
         margin: 20px;
         display: contents;
         flex-direction: column-reverse;
@@ -1298,7 +1298,7 @@ section{
     }
     .showcase-section .author-section{
         margin-left:0px ;
-        width: 7m68px;
+        width: 600px;
         height: 350px;
         border-radius:0px;
         font-size: 14px;
@@ -1310,7 +1310,7 @@ section{
         text-align: center;
         font-size: 14px;
         margin: auto;
-        width: 768px;
+        width: 600px;
     }
     .showcase-section .author-section h3{
         font-size: 20px;
