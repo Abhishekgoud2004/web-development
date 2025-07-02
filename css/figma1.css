@@ -1039,17 +1039,20 @@ section{
 }
 /* =========================== Responsive =======================*/
 /*form mobile view*/
-@media (max-width:600px) {
+@media (max-width:768px) {
     body{
         overflow-x: hidden;
         /* Hide horizontal scrollbar */
+        width:90%;
+        max-width:60px;
+        margin:0 auto;
     }
     .home-header .nav-bar{
         margin: 0px;
         background: lightseagreen;
         position: fixed;
         z-index: 10;
-        width:600px;
+        width:100%;
     }
     .home-header .nav-bar .logo{
         background-image: url(../images/logo\ \(1\).png);
@@ -1279,12 +1282,12 @@ section{
         height: 170px;
     }
     .showcase-section{
-       width: 600px;
+       width: 100%;
        height: 100%;
        margin: 0px;
        text-align: center;
     }.showcase-section .showcases{
-        width: 600px;
+        width: 100%;
         margin: 20px;
         display: contents;
         flex-direction: column-reverse;
@@ -1299,7 +1302,7 @@ section{
     }
     .showcase-section .author-section{
         margin-left:0px ;
-        width: 600px;
+        width: 100%;
         height: 350px;
         border-radius:0px;
         font-size: 14px;
@@ -1311,14 +1314,14 @@ section{
         text-align: center;
         font-size: 14px;
         margin: auto;
-        width: 600px;
+        width: 100%;
     }
     .showcase-section .author-section h3{
         font-size: 20px;
         margin: -5px auto;
     }
     .footer-section{
-        width: 768px;
+        width: 100%;
         margin-bottom: -30px;
     }
     .footer-section .footer-col{
