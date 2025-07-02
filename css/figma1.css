@@ -1049,6 +1049,7 @@ section{
         background: lightseagreen;
         position: fixed;
         z-index: 10;
+        width:600px;
     }
     .home-header .nav-bar .logo{
         background-image: url(../images/logo\ \(1\).png);
