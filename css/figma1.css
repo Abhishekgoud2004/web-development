@@ -1068,7 +1068,7 @@ section{
     .home-header .nav-bar .logo h2{
         color: black;
     }
-    .home-header .nav-bar .list-items ul{
+    .home-header .nav-bar .list-items ul li{
         display:none;
     /*.home-header .nav-bar .list-items ul li a{
         color: black;
