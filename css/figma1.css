@@ -1068,7 +1068,9 @@ section{
     .home-header .nav-bar .logo h2{
         color: black;
     }
-    .home-header .nav-bar .list-items ul li a{
+    .home-header .nav-bar .list-items{
+        display:none;
+    /*.home-header .nav-bar .list-items ul li a{
         color: black;
     }
     .home-header .nav-bar .list-items ul li{
@@ -1076,7 +1078,7 @@ section{
     }
     .home-header .nav-bar .list-items ul li a:hover{
         color: rgb(101, 98, 98);
-    }
+    }*/
     .home-header .nav-bar .nav-btn button{
         display: none;
     }
