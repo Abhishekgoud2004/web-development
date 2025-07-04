@@ -134,8 +134,6 @@ section{
     width: 1400px;
     height: 750px;
     margin-left: 100px;
-    display:flex;
-    justify-content:center;
 }
 .service-box .content-marketing h4{
     color: black;
