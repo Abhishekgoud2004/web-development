@@ -1059,7 +1059,7 @@ section{
     }
     .home-header .nav-bar{
         margin: 0px;
-        width: 100%;
+        width: 600px;
         background: lightseagreen;
         position: fixed;
         z-index: 10;
