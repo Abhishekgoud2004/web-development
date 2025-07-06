@@ -1069,7 +1069,7 @@ section{
         background-repeat: no-repeat;
         z-index: -3;
         margin: -20px 0px 0px 10px;
-        width: 100%;
+        width: 100px;
         height: 40px;
     }
     .home-header .nav-bar .logo a img{
