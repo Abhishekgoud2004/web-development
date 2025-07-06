@@ -1053,13 +1053,13 @@ section{
     color:lightseagreen ;
 }
 /* =========================== Responsive =======================*/
-@media (max-width:600px) {
+@media (max-width:480px) {
     body {
         overflow-x: hidden; /* Hide horizontal scrollbar */
     }
     .home-header .nav-bar{
         margin: 0px;
-        width: 600px;
+        width: 400px;
         background: lightseagreen;
         position: fixed;
         z-index: 10;
