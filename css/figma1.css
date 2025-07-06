@@ -1081,15 +1081,28 @@ section{
         color: black;
     }
     .home-header .nav-bar .list-items ul li a{
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
         color: black;
     }
     .home-header .nav-bar .list-items ul li{
         margin-top: -20px;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
         display: none;
     }
     .home-header .nav-bar .list-items ul li a:hover{
         color: rgb(101, 98, 98);
     }
+<<<<<<< HEAD
+=======
+=======
+    }
+    .home-header .nav-bar .list-items ul li a:hover{
+        color: rgb(101, 98, 98);
+    }*/
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
     .home-header .nav-bar .nav-btn button{
         display: none;
     }
@@ -1136,7 +1149,11 @@ section{
     .hero .hero-img img{
         margin: 150px 150px -20px -140px;
     }
+<<<<<<< HEAD
      .service-box{
+=======
+    .service-box{
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
         width: 100%;
         text-align: center;
         height: 100%;
@@ -1295,12 +1312,20 @@ section{
         height: 170px;
     }
     .showcase-section{
+<<<<<<< HEAD
        width: 600px;
+=======
+       width: 100%;
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
        height: 100%;
        margin: 0px;
        text-align: center;
     }.showcase-section .showcases{
+<<<<<<< HEAD
         width: 600px;
+=======
+        width: 100%;
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
         margin: 20px;
         display: contents;
         flex-direction: column-reverse;
@@ -1315,7 +1340,11 @@ section{
     }
     .showcase-section .author-section{
         margin-left:0px ;
+<<<<<<< HEAD
         width: 600px;
+=======
+        width: 100%;
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
         height: 350px;
         border-radius:0px;
         font-size: 14px;
@@ -1327,14 +1356,22 @@ section{
         text-align: center;
         font-size: 14px;
         margin: auto;
+<<<<<<< HEAD
         width: 550px;
+=======
+        width: 100%;
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
     }
     .showcase-section .author-section h3{
         font-size: 20px;
         margin: -5px auto;
     }
     .footer-section{
+<<<<<<< HEAD
         width: 600px;
+=======
+        width: 100%;
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
         margin-bottom: -30px;
     }
     .footer-section .footer-col{
@@ -1390,4 +1427,8 @@ section{
     }
 
     
+<<<<<<< HEAD
 }   
+=======
+}   
+>>>>>>> 0a7186725404a8b9e0e47b8bf03eff6279ea1934
