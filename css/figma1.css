@@ -1069,7 +1069,7 @@ section{
         background-repeat: no-repeat;
         z-index: -3;
         margin: -20px 0px 0px 10px;
-        width: 100px;
+        width: 120px;
         height: 40px;
     }
     .home-header .nav-bar .logo a img{
@@ -1259,7 +1259,7 @@ section{
         width: 420px;
     }
     .about-section .about-content{
-        margin: 400px 0px 0px -650px;
+        margin: 100px 0px 0px -650px;
     }
     .about-section .about-content h2{
         font-size: 45px;
@@ -1289,16 +1289,16 @@ section{
     }
     .process-section .process-img img{
         margin-left: 16px;
-        width: 560px;
+        width: 80%;
         height: 170px;
     }
     .showcase-section{
-       width: 600px;
+       width: 100%;
        height: 100%;
        margin: 0px;
        text-align: center;
     }.showcase-section .showcases{
-        width: 600px;
+        width: 100%;
         margin: 20px;
         display: contents;
         flex-direction: column-reverse;
@@ -1332,7 +1332,7 @@ section{
         margin: -5px auto;
     }
     .footer-section{
-        width: 600px;
+        width: 100%;
         margin-bottom: -30px;
     }
     .footer-section .footer-col{
