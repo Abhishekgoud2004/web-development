@@ -1053,7 +1053,7 @@ section{
     color:lightseagreen ;
 }
 /* =========================== Responsive =======================*/
-@media (max-width:480px) {
+@media (max-width:400px) {
     body {
         overflow-x: hidden; /* Hide horizontal scrollbar */
     }
