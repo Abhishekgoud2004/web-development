@@ -1059,7 +1059,7 @@ section{
     }
     .home-header .nav-bar{
         margin: 0px;
-        width: 360px;
+        width: 100%;
         background: lightseagreen;
         position: fixed;
         z-index: 10;
@@ -1106,7 +1106,7 @@ section{
         margin: 140px 0px 20px 35px;
     }
     .hero .hero-content h1{
-        font-size: 45px;
+        font-size: 35px;
     }
     .hero .hero-content p{
         font-size: 14px;
@@ -1129,10 +1129,10 @@ section{
     }
     .hero .hero-content .frame-img img{
         margin: 0px;
-        width: 340px;
+        width: 260px;
     }
     .hero .hero-img img{
-        margin: 150px 150px -20px -140px;
+        margin: 150px 150px -20px -180px;
     }
      .service-box{
         width: 100%;
