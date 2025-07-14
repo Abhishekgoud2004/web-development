@@ -1059,7 +1059,7 @@ section{
     }
     .home-header .nav-bar{
         margin: 0px;
-        width:360px;
+        width:400px;
         background: lightseagreen;
         position: fixed;
         z-index: 10;
@@ -1114,7 +1114,7 @@ section{
         text-align: left;
         width: 50%;
     }
-    .hero .hero-content .icon-btn{
+   .hero .hero-content .icon-btn{
         width: 120px;
         height: 20px;
         font-size: 10px;
@@ -1133,7 +1133,10 @@ section{
         width: 280px;
     }
     .hero .hero-img img{
-        margin: 150px 0px -20px -250px;
+        margin: 150px 0px -20px -255px;
+        width: 300px;
+        height: 300px;
+        overflow-x:hidden;
     }
      .service-box{
         width: 100%;
