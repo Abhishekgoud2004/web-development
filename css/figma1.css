@@ -1069,7 +1069,362 @@ section{
         background-repeat: no-repeat;
         z-index: -3;
         margin: -20px 0px 0px 10px;
+        width: 100px;
+        height: 40px;
+    }
+    .home-header .nav-bar .logo a img{
+        display: none;
+    }
+    .home-header .nav-bar .logo h2{
+        color: black;
+        margin-left: 15px;
+    }
+    .home-header .nav-bar .list-items ul li a{
+        color: black;
+    }
+    .home-header .nav-bar .list-items ul li{
+        margin-top: -20px;
+        display: none;
+    }
+    .home-header .nav-bar .list-items ul li a:hover{
+        color: rgb(101, 98, 98);
+    }
+    .home-header .nav-bar .nav-btn button{
+        display: none;
+    }
+    .home-header .nav-bar .nav-btn i{
+        display: block;
+        margin: -10px 20px 10px 0px;
+        font-size: 30px;
+        font-weight: 800;
+        color: black;
+    }
+    .hero{
+        display: flex;
+        flex-direction: column;
+    }
+    .hero .hero-content{
+        margin: 140px 0px 20px 15px;
+    }
+    .hero .hero-content h1{
+        font-size: 35px;
+    }
+    .hero .hero-content p{
+        font-size: 14px;
+        text-align: left;
+        width: 50%;
+    }
+    .hero .hero-content .icon-btn{
         width: 120px;
+        height: 20px;
+        font-size: 10px;
+        font-weight: bold;
+        padding: 2px;
+    }
+    .hero .hero-content .icon-btn img{
+        width: 14px;
+    }
+    .hero .hero-content h6{
+        font-size: 12px;
+        margin-left: 0px;
+    }
+    .hero .hero-content .frame-img img{
+        margin: 0px;
+        width: 280px;
+    }
+    .hero .hero-img img{
+        margin: 150px 0px -20px -250px;
+        width: ;
+    }
+     .service-box{
+        width: 100%;
+        text-align: center;
+        height: 100%;
+    }
+    .service-box .center-heading{
+        text-align: center;
+        margin-left: -190px;
+    }
+    .service-box .center-heading h4{
+        margin-top: -30px;
+        font-size: 16px;
+    }
+    .service-box .center-heading h2{
+        font-size: 35px; 
+    }
+    .service-box .box-row1{
+        display: flex;
+        flex-direction: column;
+        margin-left: -120px;
+
+    }
+    .service-box .box-row2{
+        display: flex;
+        flex-direction: column;
+        margin-left: -60px;
+    }
+    .service-box .boxes{
+        margin-left:120px;
+        padding-bottom: 50px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+
+    }
+    .service-box .box-row1 .content-marketing{
+        width: 150px;
+        height: 130px;
+        font-size: 10px;
+        margin-left: -45px;
+    }
+    .service-box .box-row1 .content-marketing img{
+        width: 50px;
+        padding-bottom: 20px;
+    }
+    .service-box .box-row1 .content-marketing h4{
+        font-size: 17px;
+    }
+    .service-box .box-row1 .graphic-design{
+        width: 150px;
+        height: 130px;
+        font-size: 10px;
+        margin-left: -45px;
+    }
+    .service-box .box-row1 .graphic-design img{
+        width: 50px;
+        padding-bottom: 20px;
+    }
+    .service-box .box-row1 .graphic-design h4{
+        font-size: 17px;
+    }
+    .service-box .box-row1 .digital-marketing{
+        width: 150px;
+        height: 130px;
+        font-size: 10px;
+        margin-left: -45px;
+    }
+    .service-box .box-row1 .digital-marketing img{
+        width: 50px;
+        padding-bottom: 20px;
+    }
+    .service-box .box-row1 .digital-marketing h4{
+        font-size: 17px;
+    }
+    .service-box .box-row2 .web-design{
+        width: 150px;
+        height: 130px;
+        margin: 100px 0px 0px -110px;
+        font-size: 10px;
+    }
+    .service-box .box-row2 .web-design img{
+        width: 50px;
+        padding-bottom: 20px;
+    }
+    .service-box .box-row2 .web-design h4{
+        font-size: 17px;
+    }
+    .service-box .box-row2 .it-consulting{
+        width: 150px;
+        height: 130px;
+        margin-left: -110px;
+        font-size: 10px;
+    }
+    .service-box .box-row2 .it-consulting img{
+        width: 50px;
+        padding-bottom: 20px;
+    }
+    .service-box .box-row2 .it-consulting h4{
+        font-size: 17px;
+    }
+    .service-box .box-row2 .brand-identity{
+        width: 150px;
+        height: 130px;
+        margin-left:-110px;
+        font-size: 10px;
+    }
+    .service-box .box-row2 .brand-identity img{
+        width: 50px;
+        padding-bottom: 20px;
+    }
+    .service-box .box-row2 .brand-identity h4{
+        font-size: 17px;
+    }
+    .service-box .box-row2{
+        margin-top: -60px;
+    }
+    .about-section{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 160vh;
+    }
+    .about-section .images{
+        margin: 350px 0px 0px 100px;
+    }
+    .about-section .images img{
+        width: 320px;
+    }
+    .about-section .about-content{
+        margin: 400px 0px 0px -650px;
+    }
+    .about-section .about-content h2{
+        font-size: 45px;
+    }
+    .about-section .about-content h4{
+        font-size: 22px;
+    }
+    .about-section .about-content .about-btn{
+        width: 150px;
+        height: 30px;
+        font-size: 13px;
+        font-weight: bold;
+        padding: 2px;
+    }
+    .about-section .about-content .about-btn img{
+        width: 18px;
+    }
+    .process-section{
+        width: 100%;
+        margin-bottom: -100px;
+    }
+    .process-section .process-heading h4{
+        font-size: 16px;
+    }
+    .process-section .process-heading h2{
+        font-size: 40px;
+    }
+    .process-section .process-img img{
+        margin-left: 16px;
+        width: 440px;
+        height: 170px;
+    }
+    .showcase-section{
+       width: 100%;
+       height: 100%;
+       margin: 0px;
+       text-align: center;
+    }.showcase-section .showcases{
+        width: 100%;
+        margin: 20px;
+        display: contents;
+        flex-direction: column-reverse;
+    }
+    .showcase-section .showcases .showcase-img1 img{
+        width: 85%;
+        height: 200px;
+    }
+    .showcase-section .showcases .showcase-img2 img{
+        width: 85%;
+        height: 200px;
+    }
+    .showcase-section .showcases .showcase-img2{
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 50px;
+    }
+    .showcase-section .showcases .showcase-img2 .showcase-btn{
+        margin: -70px 0px 0px 350px;
+    }
+    .showcase-section .author-section{
+        margin-left:0px ;
+        width: 100%;
+        height: 100%;
+        border-radius:0px;
+        font-size: 14px;
+    }
+    .showcase-section .author-section img{
+        width: 100px;
+    }
+    .showcase-section .author-section p{
+        text-align: center;
+        font-size: 14px;
+        margin: auto;
+        width: 80%;
+    }
+    .showcase-section .author-section h3{
+        font-size: 20px;
+        margin: -5px auto;
+    }
+    .footer-section{
+        width: 100%;
+        margin-bottom: -30px;
+    }
+    .footer-section .footer-col{
+        margin-left: -130px;
+        width: 30%;
+        font-size: 12px;
+    }
+    .footer-section .footer-col .logo h2{
+       font-size: 18px;
+    }
+    .footer-section .footer-col p{
+        display: none;
+    }
+    .footer-section .footer-col h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .footer-section .footer-col ul{
+        margin-left: 15px;
+    }
+    .footer-section .footer-col ul li a{
+        width: 120px;
+        font-size: 12px;
+    }
+    .footer-section .footer-col form{
+       display: none;
+    }
+    .footer{
+        height: 100%;
+    }
+    .footer .line-section img{
+        margin-left: 0px;
+    }
+    .footer .footer-bottom{
+        width: 100%;
+        margin: 0px;
+        gap: 30px;
+        text-align: center;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer .footer-bottom .col h3{
+        font-size: 14px;
+        text-align: center;
+        margin-bottom: -10px;
+    }
+    .footer .footer-bottom .col p{
+        font-size: 12px;
+    }
+    .footer .footer-bottom .social-icon img{
+        width: 30px;
+    }
+    .footer .footer-bottom .social-icon{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    } 
+}   
+/* =========================== Responsive =======================*/
+@media (min-width:401px) and (max-width:786px) {
+    body {
+        overflow-x: hidden; /* Hide horizontal scrollbar */
+    }
+    .home-header .nav-bar{
+        margin: 0px;
+        width: 100%;
+        background: lightseagreen;
+        position: fixed;
+        z-index: 10;
+    }
+    .home-header .nav-bar .logo{
+        background-image: url(../images/logo\ \(1\).png);
+        background-repeat: no-repeat;
+        z-index: -3;
+        margin: -20px 0px 0px 10px;
+        width: 100px;
         height: 40px;
     }
     .home-header .nav-bar .logo a img{
@@ -1106,7 +1461,7 @@ section{
         margin: 140px 0px 20px 35px;
     }
     .hero .hero-content h1{
-        font-size: 35px;
+        font-size: 45px;
     }
     .hero .hero-content p{
         font-size: 14px;
@@ -1129,10 +1484,10 @@ section{
     }
     .hero .hero-content .frame-img img{
         margin: 0px;
-        width: 260px;
+        width: 280px;
     }
     .hero .hero-img img{
-        margin: 150px 150px -20px -180px;
+        margin: 150px 150px -20px -140px;
     }
      .service-box{
         width: 100%;
@@ -1256,10 +1611,10 @@ section{
         margin: 350px 0px 0px 100px;
     }
     .about-section .images img{
-        width: 420px;
+        width: 320px;
     }
     .about-section .about-content{
-        margin: 100px 0px 0px -650px;
+        margin: 400px 0px 0px -650px;
     }
     .about-section .about-content h2{
         font-size: 45px;
@@ -1289,7 +1644,7 @@ section{
     }
     .process-section .process-img img{
         margin-left: 16px;
-        width: 80%;
+        width: 440px;
         height: 170px;
     }
     .showcase-section{
