@@ -1318,7 +1318,8 @@ section{
         gap: 50px;
     }
     .showcase-section .showcases .showcase-img2 .showcase-btn{
-        margin: -70px 0px 0px 350px;
+        margin-top: -70px;
+        text-align:center;
     }
     .showcase-section .author-section{
         margin-left:0px ;
