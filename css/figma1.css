@@ -1054,12 +1054,12 @@ section{
 }
 /* =========================== Responsive =======================*/
 @media (min-width:360px) and (max-width:400px) {
-    body {
+    body{
         overflow-x: hidden; /* Hide horizontal scrollbar */
     }
     .home-header .nav-bar{
         margin: 0px;
-        width:400px;
+        width:390px;
         background: lightseagreen;
         position: fixed;
         z-index: 10;
@@ -1077,7 +1077,7 @@ section{
     }
     .home-header .nav-bar .logo h2{
         color: black;
-        margin-left: 15px;
+        margin-left: 25px;
     }
     .home-header .nav-bar .list-items ul li a{
         color: black;
