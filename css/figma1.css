@@ -1059,7 +1059,7 @@ section{
     }
     .home-header .nav-bar{
         margin: 0px;
-        width: 100%;
+        width:360px;
         background: lightseagreen;
         position: fixed;
         z-index: 10;
@@ -1134,7 +1134,6 @@ section{
     }
     .hero .hero-img img{
         margin: 150px 0px -20px -250px;
-        width: ;
     }
      .service-box{
         width: 100%;
@@ -1156,7 +1155,6 @@ section{
         display: flex;
         flex-direction: column;
         margin-left: -120px;
-
     }
     .service-box .box-row2{
         display: flex;
@@ -1164,18 +1162,15 @@ section{
         margin-left: -60px;
     }
     .service-box .boxes{
-        margin-left:120px;
         padding-bottom: 50px;
         display: flex;
         flex-direction: column;
         text-align: center;
-
     }
     .service-box .box-row1 .content-marketing{
         width: 150px;
         height: 130px;
         font-size: 10px;
-        margin-left: -45px;
     }
     .service-box .box-row1 .content-marketing img{
         width: 50px;
