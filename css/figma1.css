@@ -1054,6 +1054,9 @@ section{
 }
 /* =========================== Responsive =======================*/
 @media (min-width:360px) and (max-width:400px) {
+    .container{
+        width:100%;
+    }
     body{
         overflow-x: hidden; /* Hide horizontal scrollbar */
     }
