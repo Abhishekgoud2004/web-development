@@ -1054,15 +1054,17 @@ section{
 }
 /* =========================== Responsive =======================*/
 @media (min-width:360px) and (max-width:400px) {
-    .container{
-        width:100%;
+    *{
+        box-sizing:border-box;
     }
-    body{
+    html,body{
+        width: 100%;
+        margin:0px;
         overflow-x: hidden; /* Hide horizontal scrollbar */
     }
     .home-header .nav-bar{
         margin: 0px;
-        width:391px;
+        width:100%;
         background: lightseagreen;
         position:fixed;
         z-index: 10;
