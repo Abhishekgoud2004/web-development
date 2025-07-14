@@ -1152,9 +1152,11 @@ section{
     .service-box .center-heading h4{
         margin-top: -30px;
         font-size: 16px;
+        text-align:center;
     }
     .service-box .center-heading h2{
         font-size: 35px; 
+        text-align:center;
     }
     .service-box .box-row1{
         display: flex;
@@ -1171,7 +1173,7 @@ section{
         text-align: center;
     }
     .service-box .box-row1 .content-marketing{
-        width: 150px;
+        width: 180px;
         height: 130px;
         font-size: 10px;
     }
@@ -1183,8 +1185,8 @@ section{
         font-size: 17px;
     }
     .service-box .box-row1 .graphic-design{
-        width: 150px;
-        height: 130px;
+        width: 180px;
+        height: 135px;
         font-size: 10px;
     }
     .service-box .box-row1 .graphic-design img{
@@ -1195,8 +1197,8 @@ section{
         font-size: 17px;
     }
     .service-box .box-row1 .digital-marketing{
-        width: 150px;
-        height: 130px;
+        width: 180px;
+        height: 135px;
         font-size: 10px;
         padding-bottom:10px;
     }
@@ -1208,8 +1210,8 @@ section{
         font-size: 17px;
     }
     .service-box .box-row2 .web-design{
-        width: 150px;
-        height: 130px;
+        width: 180px;
+        height: 135px;
         margin: 0px;
         font-size: 10px;
     }
@@ -1245,7 +1247,7 @@ section{
         font-size: 17px;
     }
     .service-box .box-row2{
-        margin-top: -60px;
+        margin-top: 60px;
     }
     .about-section{
         display: flex;
