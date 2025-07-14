@@ -1059,9 +1059,9 @@ section{
     }
     .home-header .nav-bar{
         margin: 0px;
-        width:390px;
+        width:391px;
         background: lightseagreen;
-        position: fixed;
+        position:fixed;
         z-index: 10;
     }
     .home-header .nav-bar .logo{
@@ -1077,7 +1077,7 @@ section{
     }
     .home-header .nav-bar .logo h2{
         color: black;
-        margin-left: 25px;
+        margin-left: 35px;
     }
     .home-header .nav-bar .list-items ul li a{
         color: black;
@@ -1133,9 +1133,7 @@ section{
         width: 280px;
     }
     .hero .hero-img img{
-        margin: 150px 0px -20px -255px;
-        width: 300px;
-        height: 300px;
+        margin: 150px 0px -20px -250px;
         overflow-x:hidden;
     }
      .service-box{
@@ -1145,7 +1143,6 @@ section{
     }
     .service-box .center-heading{
         text-align: center;
-        margin-left: -190px;
     }
     .service-box .center-heading h4{
         margin-top: -30px;
@@ -1208,7 +1205,7 @@ section{
     .service-box .box-row2 .web-design{
         width: 150px;
         height: 130px;
-        margin: 100px 0px 0px 0px;
+        margin: 0px;
         font-size: 10px;
     }
     .service-box .box-row2 .web-design img{
@@ -1252,24 +1249,24 @@ section{
         height: 160vh;
     }
     .about-section .images{
-        margin: 350px 0px 0px 100px;
+        margin: 0px;
     }
     .about-section .images img{
-        width: 320px;
+        width: 70%;
     }
     .about-section .about-content{
-        margin: 400px 0px 0px -650px;
+        margin: 0px;
     }
     .about-section .about-content h2{
-        font-size: 45px;
+        font-size: 40px;
     }
     .about-section .about-content h4{
-        font-size: 22px;
+        font-size: 20px;
     }
     .about-section .about-content .about-btn{
-        width: 150px;
+        width: 140px;
         height: 30px;
-        font-size: 13px;
+        font-size: 12px;
         font-weight: bold;
         padding: 2px;
     }
@@ -1289,7 +1286,7 @@ section{
     .process-section .process-img img{
         margin-left: 16px;
         width: 90%;
-        height: 170px;
+        height: 140px;
     }
     .showcase-section{
        width: 100%;
@@ -1410,7 +1407,7 @@ section{
         margin: 0px;
         width: 100%;
         background: lightseagreen;
-        position: fixed;
+        position:fixed;
         z-index: 10;
     }
     .home-header .nav-bar .logo{
