@@ -1154,12 +1154,10 @@ section{
     .service-box .box-row1{
         display: flex;
         flex-direction: column;
-        margin-left: -120px;
     }
     .service-box .box-row2{
         display: flex;
         flex-direction: column;
-        margin-left: -60px;
     }
     .service-box .boxes{
         padding-bottom: 50px;
@@ -1183,7 +1181,6 @@ section{
         width: 150px;
         height: 130px;
         font-size: 10px;
-        margin-left: -45px;
     }
     .service-box .box-row1 .graphic-design img{
         width: 50px;
@@ -1196,7 +1193,7 @@ section{
         width: 150px;
         height: 130px;
         font-size: 10px;
-        margin-left: -45px;
+        padding-bottom:10px;
     }
     .service-box .box-row1 .digital-marketing img{
         width: 50px;
@@ -1208,7 +1205,7 @@ section{
     .service-box .box-row2 .web-design{
         width: 150px;
         height: 130px;
-        margin: 100px 0px 0px -110px;
+        margin: 100px 0px 0px 0px;
         font-size: 10px;
     }
     .service-box .box-row2 .web-design img{
@@ -1221,7 +1218,6 @@ section{
     .service-box .box-row2 .it-consulting{
         width: 150px;
         height: 130px;
-        margin-left: -110px;
         font-size: 10px;
     }
     .service-box .box-row2 .it-consulting img{
@@ -1234,7 +1230,6 @@ section{
     .service-box .box-row2 .brand-identity{
         width: 150px;
         height: 130px;
-        margin-left:-110px;
         font-size: 10px;
     }
     .service-box .box-row2 .brand-identity img{
@@ -1290,7 +1285,7 @@ section{
     }
     .process-section .process-img img{
         margin-left: 16px;
-        width: 440px;
+        width: 90%;
         height: 170px;
     }
     .showcase-section{
