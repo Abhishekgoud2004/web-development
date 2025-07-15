@@ -1162,21 +1162,27 @@ section{
     .service-box .box-row1{
         display: flex;
         flex-direction: column;
+        margin-left: -120px;
+
     }
     .service-box .box-row2{
         display: flex;
         flex-direction: column;
+        margin-left:-120px;
     }
     .service-box .boxes{
+        margin-left:120px;
         padding-bottom: 50px;
         display: flex;
         flex-direction: column;
         text-align: center;
+
     }
     .service-box .box-row1 .content-marketing{
-        width: 200px;
-        height:150px;
+        width: 70%;
+        height: 20%;
         font-size: 10px;
+        margin-left: -45px;
     }
     .service-box .box-row1 .content-marketing img{
         width: 50px;
@@ -1186,9 +1192,10 @@ section{
         font-size: 17px;
     }
     .service-box .box-row1 .graphic-design{
-        width: 200px;
-        height:150px;
+        width: 70%;
+        height: 20%;
         font-size: 10px;
+        margin-left: -45px;
     }
     .service-box .box-row1 .graphic-design img{
         width: 50px;
@@ -1198,10 +1205,10 @@ section{
         font-size: 17px;
     }
     .service-box .box-row1 .digital-marketing{
-        width: 200px;
-        height:150px;
+        width: 70%;
+        height: 20%;
         font-size: 10px;
-        padding-bottom:10px;
+        margin-left: -45px;
     }
     .service-box .box-row1 .digital-marketing img{
         width: 50px;
@@ -1211,10 +1218,10 @@ section{
         font-size: 17px;
     }
     .service-box .box-row2 .web-design{
-        width: 200px;
-        height:150px;
-        margin: 0px;
+        width: 70%;
+        height: 20%;
         font-size: 10px;
+        margin-left: -45px;
     }
     .service-box .box-row2 .web-design img{
         width: 50px;
@@ -1224,9 +1231,10 @@ section{
         font-size: 17px;
     }
     .service-box .box-row2 .it-consulting{
-        width: 200px;
-        height:150px;
+        width: 70%;
+        height: 20%;
         font-size: 10px;
+        margin-left: -45px;
     }
     .service-box .box-row2 .it-consulting img{
         width: 50px;
@@ -1236,9 +1244,10 @@ section{
         font-size: 17px;
     }
     .service-box .box-row2 .brand-identity{
-        width: 200px;
-        height:150px;
+        width: 70%;
+        height: 20%;
         font-size: 10px;
+        margin-left: -45px;
     }
     .service-box .box-row2 .brand-identity img{
         width: 50px;
@@ -1246,9 +1255,6 @@ section{
     }
     .service-box .box-row2 .brand-identity h4{
         font-size: 17px;
-    }
-    .service-box .box-row2{
-        margin-top: 60px;
     }
     .about-section{
         display: flex;
@@ -1349,7 +1355,8 @@ section{
         margin-bottom: -30px;
     }
     .footer-section .footer-col{
-        margin-left: -130px;
+        margin-left:-130px;
+        margin-right: -120px;
         width: 30%;
         font-size: 12px;
     }
@@ -1361,16 +1368,16 @@ section{
     }
     .footer-section .footer-col h3{
         font-size: 18px;
-        margin-left: 150px;
+        margin-left: 60px;
     }
     .footer-section .footer-col ul{
-        margin-left: 150px;
+        margin-left: 60px;
     }
     .footer-section .footer-col ul li a{
-        width: 120px;
+        width: 60px;
         font-size: 12px;
     }
-    footer .footer-section span{
+    .footer .footer-section span{
         display: none;
     }
     .footer-section .footer-col form{
