@@ -1407,13 +1407,15 @@ section{
     .footer .footer-bottom .col p{
         font-size: 12px;
     }
-    .footer .footer-bottom .social-icon img{
+    .footer .footer-bottom .social-icon a img{
         width: 30px;
     }
     .footer .footer-bottom .social-icon{
         display: flex;
         align-items: center;
         gap: 10px;
+        margin-bottom: 20px;
+        z-index:
     } 
 }   
 /* =========================== Responsive =======================*/
