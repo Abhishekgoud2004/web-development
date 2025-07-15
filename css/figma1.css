@@ -1082,7 +1082,7 @@ section{
     }
     .home-header .nav-bar .logo h2{
         color: black;
-        margin-left: 35px;
+        margin-left: 40px;
     }
     .home-header .nav-bar .list-items ul li a{
         color: black;
@@ -1121,7 +1121,7 @@ section{
     }
    .hero .hero-content .icon-btn{
         width: 120px;
-        height: 20px;
+        height: 30px;
         font-size: 10px;
         font-weight: bold;
         padding: 2px;
@@ -1148,6 +1148,7 @@ section{
     }
     .service-box .center-heading{
         text-align: center;
+        margin-left: -190px;
     }
     .service-box .center-heading h4{
         margin-top: -30px;
@@ -1173,7 +1174,8 @@ section{
         text-align: center;
     }
     .service-box .box-row1 .content-marketing{
-        width: 80%;
+        width: 200px;
+        height:150px;
         font-size: 10px;
     }
     .service-box .box-row1 .content-marketing img{
@@ -1184,7 +1186,8 @@ section{
         font-size: 17px;
     }
     .service-box .box-row1 .graphic-design{
-        width: 80%;
+        width: 200px;
+        height:150px;
         font-size: 10px;
     }
     .service-box .box-row1 .graphic-design img{
@@ -1195,7 +1198,8 @@ section{
         font-size: 17px;
     }
     .service-box .box-row1 .digital-marketing{
-        width: 80%;
+        width: 200px;
+        height:150px;
         font-size: 10px;
         padding-bottom:10px;
     }
@@ -1207,7 +1211,8 @@ section{
         font-size: 17px;
     }
     .service-box .box-row2 .web-design{
-        width: 80%;
+        width: 200px;
+        height:150px;
         margin: 0px;
         font-size: 10px;
     }
@@ -1219,7 +1224,8 @@ section{
         font-size: 17px;
     }
     .service-box .box-row2 .it-consulting{
-        width: 80%;
+        width: 200px;
+        height:150px;
         font-size: 10px;
     }
     .service-box .box-row2 .it-consulting img{
@@ -1230,7 +1236,8 @@ section{
         font-size: 17px;
     }
     .service-box .box-row2 .brand-identity{
-        width: 80%;
+        width: 200px;
+        height:150px;
         font-size: 10px;
     }
     .service-box .box-row2 .brand-identity img{
@@ -1246,7 +1253,7 @@ section{
     .about-section{
         display: flex;
         flex-direction: column;
-        width: 100%;
+        width: 360px;
         height: 160vh;
     }
     .about-section .images{
@@ -1362,6 +1369,9 @@ section{
     .footer-section .footer-col ul li a{
         width: 120px;
         font-size: 12px;
+    }
+    footer .footer-section span{
+        display: none;
     }
     .footer-section .footer-col form{
        display: none;
