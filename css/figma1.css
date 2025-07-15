@@ -1144,7 +1144,7 @@ section{
      .service-box{
         width: 100%;
         text-align: center;
-        height: 240vh;
+        height: 100%;
     }
     .service-box .center-heading{
         text-align: center;
