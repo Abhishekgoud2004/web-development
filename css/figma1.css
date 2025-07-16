@@ -1259,33 +1259,34 @@ section{
     .about-section{
         display: flex;
         flex-direction: column;
-        width: 360px;
+        width: 100%;
         height: 160vh;
     }
     .about-section .images{
-        margin: 0px;
+        margin: 350px 0px 0px 250px;
     }
     .about-section .images img{
-        width: 70%;
+        width: 280px;
+        height: 380px;
     }
     .about-section .about-content{
-        margin: 0px;
+        margin: 300px 0px 0px -500px;
     }
     .about-section .about-content h2{
-        font-size: 40px;
+        font-size: 35px;
     }
     .about-section .about-content h4{
-        font-size: 20px;
+        font-size: 18px;
     }
     .about-section .about-content .about-btn{
-        width: 140px;
-        height: 30px;
-        font-size: 12px;
+        width: 120px;
+        height: 25px;
+        font-size: 10px;
         font-weight: bold;
-        padding: 2px;
+        padding: 4px;
     }
     .about-section .about-content .about-btn img{
-        width: 18px;
+        width: 16px;
     }
     .process-section{
         width: 100%;
