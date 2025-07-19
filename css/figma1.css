@@ -1419,6 +1419,9 @@ section{
         margin-bottom: 20px;
         z-index:
     } 
+    .about-header{
+        width: 100%;
+    }
     .about-header .about-nav-bar{
         margin: 0px;
         width: 100%;
@@ -1507,7 +1510,7 @@ section{
         height: 160vh;
     }
     .about-mission .about-mission-content{
-        margin: -100px 0px 10px 10px;
+        margin: 0px 0px 10px 10px;
     }
     .about-mission .about-mission-content h3{
         font-size: 20px;
