@@ -1443,7 +1443,7 @@ section{
     }
     .about-header .about-nav-bar .about-logo h2{
         color: black;
-        margin-left: 15px;
+        margin-left: 40px;
     }
     .about-header .about-nav-bar .about-list-items ul li a{
         color: black;
@@ -1555,6 +1555,19 @@ section{
     }
     .apply-section button{
         margin-bottom: 30px;
+    }
+    .contact-form{
+        width: 100%;
+        flex-direction: column;
+        gap: 60px;
+    }
+    .contact-form .contact-section{
+        margin-left: -180px;
+        margin-top: 50px;
+    }
+    .contact-form .form{
+        width: 90%;
+        margin-left: 20px;
     }
 }   
 /* =========================== Responsive =======================*/
