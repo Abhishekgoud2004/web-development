@@ -39,9 +39,6 @@
     background-color: lightseagreen;
     color: white;
 }
-.nav-btn i{
-   display: none;
-}
 .nav-btn{
     display: flex;
     justify-content: space-between;
@@ -1089,20 +1086,12 @@ section{
     }
     .home-header .nav-bar .list-items ul li{
         margin-top: -20px;
-        display: none;
     }
     .home-header .nav-bar .list-items ul li a:hover{
         color: rgb(101, 98, 98);
     }
     .home-header .nav-bar .nav-btn button{
         display: none;
-    }
-    .home-header .nav-bar .nav-btn i{
-        display: block;
-        margin: -10px 20px 10px 0px;
-        font-size: 30px;
-        font-weight: 800;
-        color: black;
     }
     .hero{
         display: flex;
@@ -1450,7 +1439,6 @@ section{
     }
     .about-header .about-nav-bar .about-list-items ul li{
         margin-top: -20px;
-        display: none;
     }
     .about-header .about-nav-bar .about-list-items ul li a:hover{
         color: rgb(101, 98, 98);
@@ -1458,13 +1446,6 @@ section{
     .about-header .about-nav-bar .about-nav-btn button{
         display: none;
     }
-    .about-header .about-nav-bar .about-nav-btn i{
-        display: block;
-        margin: -10px 20px 10px 0px;
-        font-size: 30px;
-        font-weight: 800;
-        color: black;
-    } 
     .about-card{
         width: 100%;
         height: 150vh;
@@ -1601,20 +1582,12 @@ section{
     }
     .home-header .nav-bar .list-items ul li{
         margin-top: -20px;
-        display: none;
     }
     .home-header .nav-bar .list-items ul li a:hover{
         color: rgb(101, 98, 98);
     }
     .home-header .nav-bar .nav-btn button{
         display: none;
-    }
-    .home-header .nav-bar .nav-btn i{
-        display: block;
-        margin: -10px 20px 10px 0px;
-        font-size: 30px;
-        font-weight: 800;
-        color: black;
     }
     .hero{
         display: flex;
