@@ -1066,7 +1066,7 @@ section{
         position:fixed;
         z-index: 10;
         display:flex;
-        gap:50px;
+        gap:60px;
     }
     .home-header .nav-bar .logo{
         background-image: url(../images/logo\ \(1\).png);
@@ -1420,6 +1420,8 @@ section{
         position: fixed;
         z-index: 10;
         color: black;
+        display:flex;
+        gap:60px;
     }
      .about-header .about-nav-bar .about-logo{
         background-image: url(../images/logo\ \(1\).png);
